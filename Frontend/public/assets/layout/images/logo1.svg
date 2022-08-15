@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Capa_1" xmlns:x="ns_extend;" xmlns:i="ns_ai;" xmlns:graph="ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 100"
+	 style="enable-background:new 0 0 200 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<metadata>
+	<sfw  xmlns="ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="40.5" width="190.1" x="54.9" y="28.3"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Layer_2">
+	<g id="Layer_1-2">
+		<g>
+			<path class="st0" d="M146.7,96.7H53.3V3.3h93.4V96.7z M56.7,93.3h86.6V6.7H56.7V93.3z"/>
+			<polygon class="st0" points="72,27.8 65.3,27.8 65.3,22.9 84.8,22.9 84.8,27.8 78.2,27.8 78.2,44.7 72,44.7 			"/>
+			<polygon class="st0" points="110.7,39.9 110.7,44.7 93.3,44.7 93.3,22.9 110.3,22.9 110.3,27.7 99.4,27.7 99.4,31.3 109,31.3 
+				109,35.9 99.4,35.9 99.4,39.9 			"/>
+			<polygon class="st0" points="118.7,22.9 124.9,22.9 124.9,39.8 135.3,39.8 135.3,44.7 118.7,44.7 			"/>
+			<polygon class="st0" points="85.4,55.3 85.4,77.1 80.4,77.1 70.8,65.5 70.8,77.1 64.7,77.1 64.7,55.3 69.8,55.3 79.4,66.9 
+				79.4,55.3 			"/>
+			<path class="st0" d="M106.5,72.9h-9.2l-1.7,4.2h-6.3L99,55.3h6.1l9.6,21.8h-6.4L106.5,72.9z M104.7,68.3l-2.8-7l-2.8,7
+				L104.7,68.3z"/>
+			<path class="st0" d="M131.3,72.8c0,2.4-1.9,4.3-4.3,4.3s-4.3-1.9-4.3-4.3s1.9-4.3,4.3-4.3C129.4,68.5,131.3,70.4,131.3,72.8"/>
+		</g>
+	</g>
+</g>
+</svg>
