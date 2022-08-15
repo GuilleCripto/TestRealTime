@@ -15,9 +15,9 @@ Desarrollar una solución dividida en dos capas Backend y Front End  basada en t
 
  - Servicio completo RESTful con Spring 
 
- - Documentado servicio con Open Api 3 (Springfox)
+ - Documentado servicio con Open Api 3 (springdoc-openapi-ui)
 
- - Capa de base de datos con Spring DATA mongoDB
+ - Capa de base de datos con Spring DATA Mysql
 
  - Spring Exception Handling en los controllers
  
